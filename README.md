@@ -30,7 +30,3 @@ Age Group | Encoded age bracket
 Log Admissions | Log-scaled medical admissions  
 Admissions Normalized | Normalized admission score  
 Year | Data record year  
-
-### Install Dependencies
-```bash
-pip install streamlit numpy pand
